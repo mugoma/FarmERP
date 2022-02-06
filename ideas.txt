@@ -1,0 +1,3 @@
+use get to get the pages
+
+send null url to respective dashboard if logged in
